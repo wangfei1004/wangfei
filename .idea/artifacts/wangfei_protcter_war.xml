@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wangfei-protcter:war">
+    <output-path>$PROJECT_DIR$/../wangfei-protcter/target</output-path>
+    <root id="archive" name="wangfei-protcter.war">
+      <element id="artifact" artifact-name="wangfei-protcter:war exploded" />
+    </root>
+  </artifact>
+</component>
